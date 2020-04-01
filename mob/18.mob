@@ -1,0 +1,333 @@
+#1809
+john connor~
+John Connor~
+John Connor is giving orders here.
+~
+   The leader of the Resistance Force he is a hardened veteran with the scars
+to prove it.    
+~
+25403658 0 0 0 80 0 0 0 0 E
+55 -7 -34 55d55+45375 11d6+55
+1552833 2329250
+8 8 1
+BareHandAttack: 7
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 13
+SavingRod: 13
+SavingPetri: 13
+SavingBreath: 13
+SavingSpell: 13
+E
+#1810
+terminator txp~
+a series 800 terminator~
+A terminator is looking for a human to kill.
+~
+   This metal endoskeleton is the perfect killing weapon.  The mechanical red
+eyes scan the area for anything living.    
+~
+8388680 0 0 0 0 0 0 0 0 E
+45 -2 -26 45d45+33333 9d5+45
+729000 1093500
+8 8 0
+BareHandAttack: 9
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 11
+SavingRod: 11
+SavingPetri: 11
+SavingBreath: 11
+SavingSpell: 11
+E
+#1811
+flying hunter killer aerial txp~
+a aerial hunter killer~
+A flying hunter killer zooms past you, it's turbines whining.
+~
+   This flying metal machine has a mind of it's own and was made for the sole
+purpose of hunting down humans and killing them.    
+~
+8388680 0 0 0 8388608 0 0 0 0 E
+50 -5 -30 50d50+37500 10d5+50
+1083333 1625000
+8 8 0
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 12
+SavingRod: 12
+SavingPetri: 12
+SavingBreath: 12
+SavingSpell: 12
+E
+#1812
+hunter killer tank~
+a hunter killer tank~
+A huge metal tank rolls past, bones crunching under it's weight.
+~
+   Yet another machine made by machines to purge the world of humans.    
+~
+25165896 0 0 0 256 0 0 0 0 E
+45 -2 -26 45d45+50000 9d5+45
+729000 1093500
+8 8 0
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 11
+SavingRod: 11
+SavingPetri: 11
+SavingBreath: 11
+SavingSpell: 11
+E
+#1813
+Centurion~
+a centurion~
+A centurion runs past.
+~
+   This four legged gun pod is fast and deadly accurate.    
+~
+25167960 0 0 0 8388864 0 0 0 0 E
+55 -7 -34 55d55+55555 11d6+55
+1552833 2329250
+8 8 0
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 13
+SavingRod: 13
+SavingPetri: 13
+SavingBreath: 13
+SavingSpell: 13
+E
+#1814
+silverfish txp~
+a silverfish~
+A silverfish is trying to sneak up on you.
+~
+   This small centipede like robot finds it's way into the resistance force
+hideouts and explodes, sending razor sharp shrapnel in all directions.    
+~
+8388680 0 0 0 524288 0 0 0 0 E
+40 0 -22 40d40+24000 8d4+40
+469333 704000
+8 8 0
+BareHandAttack: 10
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 10
+SavingRod: 10
+SavingPetri: 10
+SavingBreath: 10
+SavingSpell: 10
+E
+#1815
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8388616 0 0 0 0 0 0 0 0 E
+1 17 14 1d1+6 6d3+2
+40000 60000
+8 8 0
+E
+#1816
+t1000 txp~
+the T1000~
+A T1000 is shapeshifting before you.
+~
+   A poly-alloy or liquid medal, this is the latest and greatest invention of
+the robots.    
+~
+25403402 0 0 0 9502796 0 0 0 0 E
+60 -10 -38 60d60+54000 12d6+60
+2304000 3456000
+8 8 0
+BareHandAttack: 11
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 15
+SavingRod: 15
+SavingPetri: 15
+SavingBreath: 15
+SavingSpell: 15
+E
+#1817
+guerilla soldier txp~
+a guerilla soldier~
+A soldier of the resistance force is looking for a terminator to kill.
+~
+   Born in battle, it's all this soldier has ever known.    
+~
+8388680 0 0 0 0 0 0 0 0 E
+40 0 -22 40d40+24000 8d4+40
+469333 704000
+8 8 0
+BareHandAttack: 7
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 10
+SavingRod: 10
+SavingPetri: 10
+SavingBreath: 10
+SavingSpell: 10
+E
+#1818
+terminator autonomous txp~
+an autonomous terminator~
+An autonomous terminator is guarding skynet.
+~
+   This terminator was made as a sentry to keep all from entering skynet
+laboratories.    
+~
+8388618 0 0 0 0 0 0 0 0 E
+40 0 -22 40d40+24000 8d4+40
+469333 704000
+8 8 0
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 10
+SavingRod: 10
+SavingPetri: 10
+SavingBreath: 10
+SavingSpell: 10
+E
+#1819
+guerilla child txp~
+a guerilla child~
+A child is learning helping the soldiers with their wounds.
+~
+   Even the children take part in this war with the machines.  They care for
+the wounded, run messages, help with the equipment.  No one is free until the
+machines are destroyed.    
+~
+8388622 0 0 0 0 0 0 0 0 E
+35 3 -18 35d35+18375 7d3+35
+257250 385875
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 23
+Int: 23
+Wis: 23
+Con: 23
+Luck: 23
+SavingPara: 8
+SavingRod: 8
+SavingPetri: 8
+SavingBreath: 8
+SavingSpell: 8
+E
+#1820
+guerilla officer txp~
+a guerilla officer~
+An officer of the resistance force is leading his soldiers into battle.
+~
+   His eyes tell you what he dares not say to his troops, this battle is
+hopless, lives are waster killing machines that can just be rebuilt.    
+~
+8388680 0 0 0 8388864 0 0 0 0 E
+50 -5 -30 50d50+37500 10d5+50
+1083333 1625000
+8 8 0
+BareHandAttack: 6
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 12
+SavingRod: 12
+SavingPetri: 12
+SavingBreath: 12
+SavingSpell: 12
+E
+#1821
+german shepherd~
+a german shepherd~
+A german shepherd sniffs your hand.
+~
+   The resistance uses this dog to detect terminators.    
+~
+8388618 0 0 0 0 0 0 0 0 E
+35 3 -18 35d35+18375 7d3+35
+257250 385875
+8 8 0
+BareHandAttack: 4
+Str: 23
+Dex: 23
+Int: 23
+Wis: 23
+Con: 23
+Luck: 23
+SavingPara: 8
+SavingRod: 8
+SavingPetri: 8
+SavingBreath: 8
+SavingSpell: 8
+E
+#1822
+kyle reese~
+Kyle Reese~
+Kyle Reese is hiding from the terminators.
+~
+   If only he knew what the future held for him.    
+~
+25168200 0 0 0 340 0 0 0 0 E
+55 -7 -34 55d55+45375 11d6+55
+1552833 2329250
+8 8 1
+BareHandAttack: 12
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 13
+SavingRod: 13
+SavingPetri: 13
+SavingBreath: 13
+SavingSpell: 13
+E
+$

@@ -1,0 +1,1 @@
+# omgMUD_world

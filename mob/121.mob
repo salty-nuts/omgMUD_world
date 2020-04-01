@@ -1,0 +1,58 @@
+#12100
+avenger hatred~
+an Avenger of Hatred~
+An Avenger of Hatred, sent by the Goddess Styx, aims for your demise!
+~
+   The Avenger of Hatred was sent by the Goddess Styx to destroy the living who
+has trespassed over her sacred river.  It emerges from the water and hovers
+above with giant wings flapping behind it.  It's dark shadowy figure has
+tentacles protruding from where it's eyes should be and red dots glow at the end
+of them.  It takes the shape of man and also of no man.
+~
+7391274 0 0 0 149712 0 0 0 -1000 E
+50 -80 -20 5d10+1000000 1d1+8
+500 2483304
+8 8 0
+BareHandAttack: 8
+NumAttacks: 10
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 12
+SavingRod: 12
+SavingPetri: 12
+SavingBreath: 12
+SavingSpell: 12
+E
+T 12101
+T 12196
+T 12197
+T 12199
+T 12195
+#12200
+charon ferryman~
+Charon, the Ferryman of the Underworld~
+Charon, the Ferryman of the Underworld waits patiently for souls to arrive.
+~
+It looks unfinished.
+~
+278538 0 0 0 0 0 0 0 0 E
+50 4 -20 10d10+500 8d8+8
+500 2483304
+8 8 1
+Str: 25
+Dex: 25
+Int: 25
+Wis: 25
+Con: 25
+Luck: 25
+SavingPara: 12
+SavingRod: 12
+SavingPetri: 12
+SavingBreath: 12
+SavingSpell: 12
+E
+$
